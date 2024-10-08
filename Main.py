@@ -145,7 +145,6 @@ class Automacao_Moedas():
             'C:/Users/Gustavo Roldam/Desktop/Python/MiniCursoPython/Moedas.xlsx',
             index=False
         )
-
         self.Abrir_Excel()
 
     def Abrir_Excel(self):
